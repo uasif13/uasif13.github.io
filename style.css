@@ -11,4 +11,5 @@ img.displayed {
 }
 li {
     list-style-type: none;
+    border: 2em;
 }
